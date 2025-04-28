@@ -1,0 +1,8 @@
+tracker_type: bytetrack
+frame_rate: 30
+track_buffer: 30
+match_thresh: 0.8
+mot20: false
+conf_thres: 0.4
+low_conf_thres: 0.1
+new_track_thresh: 0.7
